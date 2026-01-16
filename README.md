@@ -1,4 +1,4 @@
-# Scenario 3 — Static Website on AWS (S3 + CloudFront + ACM + Route53)
+# Static Website on AWS (S3 + CloudFront + ACM + Route53)
 
 **🌐 You can browse the website at https://www.iamanilk.space**
 
